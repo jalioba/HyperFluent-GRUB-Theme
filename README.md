@@ -39,6 +39,8 @@ Even while maintaining the same shared fluent design language, each variant of  
 - Gentoo
 - ALT Linux
 - Zorin OS
+- Alpine Linux
+- Kali Linux
 
 **Other**
 - Generic
